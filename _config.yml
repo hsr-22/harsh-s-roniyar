@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Harsh Roniyar"
 title_separator          : "-"
 name                     : &name "Harsh Roniyar"
-description              : &description "Freshman at IIT Bombay"
+description              : &description "My academic website"
 url                      : https://hsr-22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/harsh-s-roniyar" # the subpath of your site, e.g. "/blog"
 repository               : "hsr-22/harsh-s-roniyar"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "harsh.roniyar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
