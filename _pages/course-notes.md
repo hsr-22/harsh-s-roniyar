@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# IITB Course Notes
+## IITB Course Notes
 
 Here are (the links to) the notes for some of the courses I am taking/took at IITB.  
 
