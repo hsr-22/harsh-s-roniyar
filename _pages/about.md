@@ -12,7 +12,7 @@ redirect_from:
 About Me
 --------
 
-Hi, I am Harsh Sanjay Roniyar. I am currently a first year under-graduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
+Hi, I am Harsh Sanjay Roniyar. I am currently a under-graduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
 
 
 For more info
